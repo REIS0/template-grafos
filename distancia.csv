@@ -1,0 +1,31 @@
+src,dst,relationship,cost
+Xaxim,Curitibanos,road,251
+Abelardo Luz,Xaxim,road,57.5
+Florianopolis,Lages,road,228
+Xaxim,Chapeco,road,26.7
+Blumemau,Itajai,road,62.9
+Joinville,Balneario Camboriu,road,103
+Chapeco,Lages,road,332
+Lages,Curitibanos,road,93.6
+Florianopolis,Curitibanos,road,320
+Curitibanos,Chapeco,road,279
+Blumemau,Joinville,road,129
+Itajai,Joinville,road,93.2
+Joinville,Balneario Camboriu,road,102
+Balneario Camboriu,Itajai,road,15.2
+Itajai,Florianopolis,road,99.6
+Blumemau,Florianopolis,road,153
+Abelardo Luz,Chapeco,road,96.4
+Chapeco,Blumemau,road,480
+Abelardo Luz,Joinville,road,445
+Abelardo Luz,Curitibanos,road,272
+Xaxim,Lages,road,307
+Blumemau,Lages,road,226
+Chapeco,Joinville,road,512
+Balneario Camboriu,Chapeco,road,541
+Itajai,Chapeco,road,531
+Joinville,Lages,road,312
+Curitibanos,Blumemau,road,207
+Florianopolis,Joinville,road,186
+Balneario Camboriu,Blumemau,road,67.5
+Florianopolis,Curitibanos,road,319
