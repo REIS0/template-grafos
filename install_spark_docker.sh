@@ -6,7 +6,7 @@
 localdir=$(pwd)
 
 # Cria a imagem
-docker build -t "spark:Dockerfile"
+docker build -t "spark:Dockerfile" .
 
 # roda o container e instala a dependencia graphframe
 # -v vai sincronizar a pasta 'work' dentro do container com a pasta local
